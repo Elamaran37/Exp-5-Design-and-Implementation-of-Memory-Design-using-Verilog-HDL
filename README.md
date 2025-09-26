@@ -1,4 +1,4 @@
-<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/46fcad64-e26e-44cd-a07f-4e90066bf44c" /># Exp-5-Design-and-Simulate the-Memory-Design-using-Verilog-HDL
+# Exp-5-Design-and-Simulate the-Memory-Design-using-Verilog-HDL
 #Aim
 To design and simulate a RAM,ROM,FIFO using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment.
 Apparatus Required
