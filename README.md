@@ -210,7 +210,9 @@ endmodule
 ```
 
 // output Waveform
-![Uploading image.png…]()
+
+<img width="1918" height="1077" alt="Screenshot 2025-10-15 100730" src="https://github.com/user-attachments/assets/dd23174b-5036-47da-9e44-e5b972b1894b" />
+
 
 
 
